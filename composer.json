@@ -1,0 +1,14 @@
+{
+    "name": "lava/oaksoftphp",
+    "description": "a simple website dev framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobechi Paschal",
+            "email": "tobechipaschal@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
